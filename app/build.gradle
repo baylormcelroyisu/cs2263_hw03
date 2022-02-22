@@ -13,11 +13,6 @@ plugins {
 
 }
 
-task myJavadocs(type: Javadoc) {
-    source = sourceSets.main.allJava
-    destinationDir = reporting.file("docs\\javadoc")
-}
-
 repositories {
     // Use Maven Central for resolving dependencies.
     mavenCentral()
