@@ -6,8 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-- added Changelog
-- added gitflow
-- added README
-- added git ignore
-- added docs folder
+### added
+
+- Changelog
+- gitflow
+- README
+- git ignore
+- docs folder
+
+## v0.0.1
+
+### added
+
+- initial documentation
