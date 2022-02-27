@@ -6,5 +6,5 @@ javaFX application to store a course catalog.
 
 ## Design
 
-![](/docs/GUI.png)
-![](/docs/ClassDiagram.png)
+![](\docs\Images\GUI.png)
+![](\docs\Images\ClassDiagram.png)
