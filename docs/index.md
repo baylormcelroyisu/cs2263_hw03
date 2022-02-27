@@ -2,7 +2,7 @@
 
 ## Info
 
-simple javafx program to test functionality
+Simple javaFX program that creates and stores course catalogs.
 
 ![](/docs/Images/GUI.png)
 ![](/docs/Images/UML.png)
