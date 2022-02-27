@@ -4,5 +4,5 @@
 
 Simple javaFX program that creates and stores course catalogs.
 
-![](docs/Images/GUI.png)
-![](docs/Images/UML.png)
+![](/docs/images/GUI.png)
+![](/docs/images/UML.png)
