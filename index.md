@@ -2,9 +2,9 @@
 
 ## About
 
-javaFX application to store class and course numbers
+javaFX application to store a course catalog.
 
 ## Design
 
-![](GUI.png)
-![](ClassDiagram.png)
+![](/docs/GUI.png)
+![](/docs/ClassDiagram.png)

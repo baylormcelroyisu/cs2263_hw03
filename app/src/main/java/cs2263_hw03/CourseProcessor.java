@@ -7,7 +7,7 @@ import java.util.ArrayList;
  */
 public class CourseProcessor  {
 
-    ArrayList<Course> courses = new ArrayList<>();
+    private ArrayList<Course> courses = new ArrayList<>();
 
     /**
      * Add a course to the catalog.
